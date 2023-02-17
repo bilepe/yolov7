@@ -1,0 +1,8 @@
+/home/nvidia/yolov7/data/VOCdevkit/VOC2007/JPEGImages/00009.jpg
+/home/nvidia/yolov7/data/VOCdevkit/VOC2007/JPEGImages/00050.jpg
+/home/nvidia/yolov7/data/VOCdevkit/VOC2007/JPEGImages/00049.jpg
+/home/nvidia/yolov7/data/VOCdevkit/VOC2007/JPEGImages/00052.jpg
+/home/nvidia/yolov7/data/VOCdevkit/VOC2007/JPEGImages/00011.jpg
+/home/nvidia/yolov7/data/VOCdevkit/VOC2007/JPEGImages/00024.jpg
+/home/nvidia/yolov7/data/VOCdevkit/VOC2007/JPEGImages/00005.jpg
+/home/nvidia/yolov7/data/VOCdevkit/VOC2007/JPEGImages/00051.jpg
